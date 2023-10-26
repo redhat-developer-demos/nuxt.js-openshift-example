@@ -20,9 +20,9 @@ Follow these steps to start your sandbox instance and deploy your Nuxt.js app:
 
 7.  Choose a Resource Type field, please choose either Deployment or Serverless Deployment (default option) depending on your preference.
     
-8.  Select Target Port under Advanced options to define the port **3000** that will receive the container's traffic.
+8.  Select **Target Port** under Advanced options to define the port 3000 that will receive the container's traffic.
     
-9.  Click on Create.
+9.  Click on **Create**.
     
 10.  You will now be directed to the Topology view, and the application will commence deployment. Please allow some time for the build & deployment process to complete. While it is in progress, you will have the opportunity to monitor the logs.
     
